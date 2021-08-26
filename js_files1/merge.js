@@ -90,7 +90,7 @@ div1.appendChild(li4);
 div1.appendChild(li5);
 
 h2=document.createElement("h2");
-h2.innerHTML = "Time Complexity : O(Log n)";
+h2.innerHTML = "Time Complexity : O(n Log n)";
 div2.appendChild(h2);
 
 }
